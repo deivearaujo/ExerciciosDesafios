@@ -1,0 +1,9 @@
+01. Quais os possiveis métodos para referenciar
+um seletor em um estilo CSS?
+    R: id e classe.
+
+02. Qual é a finalidade do atributo HREF em uma âncora?
+    R: Fazer uma referencia para um local interno ou um local externo.
+
+03. Qual é a tag semântica para criar menus de navegação?
+    R: Deve ser utilizada nesse caso a tag <nav>.

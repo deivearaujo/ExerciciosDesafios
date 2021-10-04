@@ -1,0 +1,11 @@
+01. Como podemos definir uma URL, dê um exemplo.
+    R: É um conjunto de elementos que corresponde ao 
+    protocolo HTTP, endereço de dominio e as paginas que estão
+    agregadas a esse dominio, exemplo pode ser qualquer pagina na internet.
+
+02. O que é HTTP?
+    R: É um protocolo de comunicação entre o navegador e o Web server.
+
+03. O que são vendors em CSS?
+    R: São prefixos que os fabricantes de Browers disponibinizam,
+    para que possamos testar novas funcionalidades no CSS.
