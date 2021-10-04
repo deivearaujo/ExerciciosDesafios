@@ -1,0 +1,10 @@
+01. O que a propriedade CSS irá proporcionar a um elemento html?
+        R: Um preenchimento interno no elemento.
+
+02. É verdade que todos elementos html possuem por padrão a propriedade
+    position no estado STICKY?
+        R: Não é verdade, a propriedade certa para isso e a STATIC.
+
+03. Qual é a vantagem de utilizar o atributo ALT em um elemento <img>?
+        R: Uma das vantagens é que ser por acaso a imagem não for
+        carregada corretamente, aparecerá uma descrição dessa imagem.

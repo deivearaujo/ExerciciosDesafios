@@ -1,0 +1,15 @@
+01. Qual a propriedade CSS que permite aplicar um 'degrade'
+    em um elemento HTML? Deum exemplo.
+        R: background é a propriedade e linear-gradient (red, black)
+        pode ser um exemplo de variações gradiente.
+
+02. Por padrão, é recomendado que a aplicação do CSS seja de forma inline
+    ou mesmono próprio corpo do código html
+        R: Não é verdade, mesmo podendo ser feito a recomendação é que
+        seja feito em um arquivo separado.
+
+03. Qual a diferença basica entre a unidade de medida pixel (px) 
+    e a unidade em percentual (%)?
+        R: Pixel (px) é uma unidade fixa
+        Percentual (px) pode variar dependendo principalmente do seu
+        viewport.

@@ -1,0 +1,8 @@
+Qual é a tag semântica que servirá de container
+para as tags de parágrafo <p>?
+    R: Deve ser usada a tag <Article>
+
+Uma tag de parágrafo pose ser substituida por uma tag <div>
+principalmente para conter textos longos?
+    R:Não pode, existem tags mais especificas para utilização nesses
+    casos como é o caso da tag de parágrafo <p>. 

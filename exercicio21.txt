@@ -1,0 +1,12 @@
+01. É verdade que todo arquivo CS precisa estar dentro
+    de outra pasta para que o navegador possa renderizar os estilos
+    das proriedades CSS?
+        R: Não, apesar de indicado para manter os arquivos e codigos
+            organizados isso não é obrigatório.
+
+02. É verdade que todo elemento html possui por padrão elementos filhos?
+        R: Não é verdade.
+
+03. O que é viewport?
+        R: É a área exibida na tela do dispotivo utilizado,
+        área de visualização do conteúdo de uma pagina.

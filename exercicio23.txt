@@ -1,0 +1,10 @@
+01. Dê uma definição para o elemento html <body>.
+        R: O <body> e uma das tags maios importantes, pois corresponde
+        praticamente toda estrutura html da sua página. 
+
+02. É correto dizer que por padrão todos os elementos html possuem
+    uma definição de margin e padding?
+        R: Não é correto, porque tem todos possuem definição.
+
+03. Uma tag <figure> pode conter varias tags <figurecaption>?
+        R: Não é verdade, apenas um <figurecaption> para um <figure>
