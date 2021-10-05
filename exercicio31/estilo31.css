@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding-right: 0;
+}
+
+header, main, footer {
+    width: 80%;
+    background-color: darkgoldenrod;
+    margin: 10px auto 10px auto;
+
+}
+
+main {
+     height: auto;
+}
+
+header, footer {
+    height: 60px;
+}
+
+footer {
+    height: auto;
+}
+
+.ajusteTamanho {
+    height: 10vh;
+    background-color: darkolivegreen;
+}
+
+.content-card > div, footer > div {
+    width: 48%;
+    height: 200px;
+    background-color: darkred;
+}
+
+.flex {
+    display: flex;
+}
+
+.space-btw {
+    justify-content: space-between;
+}
+
+section {
+    margin: 10px 0 10px 0;
+    background-color: darkturquoise;
+}
+
+@media screen and (max-width:700px) {
+    body {
+        background-color: black;
+    }
+
+    section {
+        height: auto;
+        flex-direction: column;
+    }
+
+    .content-card > div {
+        width: 100%;
+        margin-bottom: 5px;
+    }
+}
