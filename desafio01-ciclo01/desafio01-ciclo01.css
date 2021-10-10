@@ -1,4 +1,3 @@
-
     * {
         box-sizing: border-box;
         margin: 0;
@@ -14,29 +13,24 @@
         --fonte-padrão: helvetica;
         --cor-contato: red;
         --cor-home: #f9a825;
-
     }
 
     .fonte-principal {
         font-family: var(--fonte-padrão);
-
     }
 
     a {
         text-decoration: none;
         color: var(--cor-de-fonte);
-
     }
-
 
     .home {
         width: 130px;
-        height: 55%;
+        height:90%;
         align-items: center;
         justify-content: space-evenly;
         border-radius: 40px 40px 40px 40px;
         background-color: var(--cor-home);
-        
     }
 
     .logo {
@@ -53,9 +47,7 @@
         background-color: #212121;
         justify-content: space-between;
         align-items: center;
-        
     }
-
 
     header > div > div.logo {
         font-size: 1.2rem;
@@ -71,12 +63,11 @@
 
     .contato:hover {
         width: 150px;
-        height: 55%;
+        height: 90%;
         justify-content: space-around;
         align-items: center;
         background-color: var(--cor-contato);
     }
-
 
     main > div > p {
         width: 50%;
@@ -84,7 +75,6 @@
         padding: 25px;
         align-items: center;
         justify-content: end;
-
     }
 
     .txt {
@@ -94,7 +84,6 @@
         border-right: 1px dashed black;
         justify-content: end;
         align-items: center;
-        
     }
 
     main > div > input {
@@ -109,13 +98,11 @@
         height: 300px;
         padding: 30px;
         align-items: center;
-        
     }
-
 
     main {
         width: 100vw;
-        height: 81.9vh;
+        height: 80vh;
         justify-content: center;
         align-items: center;
     }
@@ -142,13 +129,10 @@
         width: 300px;
         height: 5vh;
         align-items: center;
-    
     }
     
     .header-right {
         width: 500px;
         height: 5vh;
         align-items: center;
-        
-    
     }
