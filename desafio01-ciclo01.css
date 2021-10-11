@@ -1,0 +1,138 @@
+    * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+    }
+
+    .flex {
+        display: flex;
+    }
+
+    :root {
+        --cor-de-fonte: #fff;
+        --fonte-padrão: helvetica;
+        --cor-contato: red;
+        --cor-home: #f9a825;
+    }
+
+    .fonte-principal {
+        font-family: var(--fonte-padrão);
+    }
+
+    a {
+        text-decoration: none;
+        color: var(--cor-de-fonte);
+    }
+
+    .home {
+        width: 130px;
+        height:90%;
+        align-items: center;
+        justify-content: space-evenly;
+        border-radius: 40px 40px 40px 40px;
+        background-color: var(--cor-home);
+    }
+
+    .logo {
+        width: 50px;
+        height: auto;
+        color: var(--cor-de-fonte);
+        justify-content: center;
+        align-items: center;
+    }
+
+    header {
+        width: 100VW;
+        height: 40px;
+        background-color: #212121;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    header > div > div.logo {
+        font-size: 1.2rem;
+    }
+
+    header > nav > ul > li {
+        color: var(--cor-de-fonte);
+        text-decoration: none;
+        justify-content: space-around;
+        align-items: center;
+        width: 150px;
+    }
+
+    .contato:hover {
+        width: 150px;
+        height: 90%;
+        justify-content: space-around;
+        align-items: center;
+        background-color: var(--cor-contato);
+    }
+
+    main > div > p {
+        width: 50%;
+        height: auto;
+        padding: 25px;
+        align-items: center;
+        justify-content: end;
+    }
+
+    .txt {
+        width: 50%;
+        height: 200px;
+        font-size: 20px;
+        border-right: 1px dashed black;
+        justify-content: end;
+        align-items: center;
+    }
+
+    main > div > input {
+        width: 350px;
+        height: 40px;
+        padding-left: 5px;
+        font-size: 16px;
+    }
+
+    .email {
+        width: 50%;
+        height: 300px;
+        padding: 30px;
+        align-items: center;
+    }
+
+    main {
+        width: 100vw;
+        height: 80vh;
+        justify-content: center;
+        align-items: center;
+    }
+
+    footer {
+        width: 100vw;
+        height: 80px;
+        background-color: #212121;
+        justify-content: center;
+        align-items: baseline;
+    }
+
+    footer > div > h1.rodape {   
+        width: 200px;
+        height: 80px;
+        font-size: 1.3rem;
+        font-family: var(--fonte-padrão);
+        color: var(--cor-de-fonte);
+        justify-content: center;
+        align-items: center;
+    }
+
+    .header-left {
+        width: 300px;
+        height: 5vh;
+        align-items: center;
+    }
+    
+    .header-right {
+        width: 500px;
+        height: 5vh;
+        align-items: center;
+    }
